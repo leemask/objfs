@@ -1,0 +1,83 @@
+[
+    {
+        "module": "Fill", 
+        "size": {
+            ".data": 0, 
+            ".bss": 12, 
+            ".text": 177
+        }
+    }, 
+    {
+        "module": "Misc", 
+        "size": {
+            ".data": 2572, 
+            ".bss": 4779, 
+            ".text": 67262
+        }
+    }, 
+    {
+        "module": "drivers", 
+        "size": {
+            ".data": 4, 
+            ".bss": 164, 
+            ".text": 2996
+        }
+    }, 
+    {
+        "module": "features/filesystem", 
+        "size": {
+            ".data": 0, 
+            ".bss": 550, 
+            ".text": 12649
+        }
+    }, 
+    {
+        "module": "hal", 
+        "size": {
+            ".data": 0, 
+            ".bss": 8, 
+            ".text": 464
+        }
+    }, 
+    {
+        "module": "platform", 
+        "size": {
+            ".data": 20, 
+            ".bss": 325, 
+            ".text": 2075
+        }
+    }, 
+    {
+        "module": "rtos", 
+        "size": {
+            ".data": 4, 
+            ".bss": 4, 
+            ".text": 149
+        }
+    }, 
+    {
+        "module": "rtos/rtx", 
+        "size": {
+            ".data": 20, 
+            ".bss": 6870, 
+            ".text": 6101
+        }
+    }, 
+    {
+        "module": "targets/TARGET_STM", 
+        "size": {
+            ".data": 4, 
+            ".bss": 1348, 
+            ".text": 14037
+        }
+    }, 
+    {
+        "summary": {
+            "total_flash": 108534, 
+            "static_ram": 16684, 
+            "stack": 0, 
+            "heap": 0, 
+            "total_ram": 16684
+        }
+    }
+]
