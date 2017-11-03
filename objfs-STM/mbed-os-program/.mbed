@@ -1,0 +1,5 @@
+ROOT=.
+TOOLCHAIN=GCC_ARM
+GCC_ARM_PATH=/home/sjyoon/workspace/object_filesystem/gcc/gcc-arm-none-eabi-6-2017-q2-update/bin/
+TARGET=NUCLEO_F446ZE
+TOOLCHANIN=GCC_ARM
