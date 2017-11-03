@@ -1,0 +1,19 @@
+{
+  "name": "node-fusionchart-demo",
+  "version": "1.0.0",
+  "description": "Sample for creating FusionChart using Node and MongoDB",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "mongodb": "^2.0.42"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "mohamed sanaulla (sanaulla123@gmail.com)",
+  "license": "ISC"
+}

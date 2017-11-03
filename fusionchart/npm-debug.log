@@ -1,0 +1,25 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'explore',
+1 verbose cli   'npm',
+1 verbose cli   '-g',
+1 verbose cli   '--',
+1 verbose cli   'npm',
+1 verbose cli   'ls',
+1 verbose cli   'graceful-fs' ]
+2 info using npm@3.10.10
+3 info using node@v6.11.2
+4 verbose stack Error: It doesn't look like npm is installed.
+4 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\explore.js:40:17
+4 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\graceful-fs\polyfills.js:264:29
+4 verbose stack     at FSReqWrap.oncomplete (fs.js:123:15)
+5 verbose cwd E:\workspace\node-fusioncharts-demo
+6 error Windows_NT 6.1.7601
+7 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "explore" "npm" "-g" "--" "npm" "ls" "graceful-fs"
+8 error node v6.11.2
+9 error npm  v3.10.10
+10 error It doesn't look like npm is installed.
+11 error If you need help, you may report this error at:
+11 error     <https://github.com/npm/npm/issues>
+12 verbose exit [ 1, true ]
